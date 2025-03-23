@@ -1,1 +1,0 @@
-# Drawing_Revision_Detection
