@@ -68,4 +68,8 @@ Feel free to contribute by submitting issues or pull requests.
 
 For any queries, reach out to JayachandranSA via GitHub or email: [jayachandran.sa@outlook.com]
 
+<<<<<<< HEAD
 🚀 Happy Coding!
+=======
+🚀 Happy Coding!
+>>>>>>> 17aaa39 (Readme.md file added)
